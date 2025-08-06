@@ -1,0 +1,15 @@
+.game-link {
+  text-decoration: none;
+  background: #ff416c;
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 1.1em;
+  transition: background 0.3s;
+}
+
+.game-link:hover {
+  background: linear-gradient(to right, #ff416c, #ff4b2b);
+}
